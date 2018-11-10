@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1514563549 source:c:\users\vivian weng\desktop\¦r¥À\40557024o\source\appearance.cpp
+	<stdio.h>
+	"ioctrl.h"
+
+1514563379 c:\users\vivian weng\desktop\¦r¥À\40557024o\source\ioctrl.h
+	<windows.h>
+	<conio.h>
+
+1514563352 source:c:\users\vivian weng\desktop\¦r¥À\40557024o\source\ending.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
+1514563365 source:c:\users\vivian weng\desktop\¦r¥À\40557024o\source\ioctrl.cpp
+	<windows.h>
+	<conio.h>
+
+1514563432 source:c:\users\vivian weng\desktop\¦r¥À\40557024o\source\level2.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	"appearance.h"
+	<time.h>
+	"ioctrl.h"
+
+1514563335 c:\users\vivian weng\desktop\¦r¥À\40557024o\source\appearance.h
+
+1514563455 source:c:\users\vivian weng\desktop\¦r¥À\40557024o\source\level3.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	"appearance.h"
+	<time.h>
+	"ioctrl.h"
+
+1514563467 source:c:\users\vivian weng\desktop\¦r¥À\40557024o\source\level4.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	"appearance.h"
+	<time.h>
+	"ioctrl.h"
+
+1514563479 source:c:\users\vivian weng\desktop\¦r¥À\40557024o\source\level5.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	"appearance.h"
+	<time.h>
+	"ioctrl.h"
+
+1514601160 source:c:\users\vivian weng\desktop\¦r¥À\40557024o\source\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ioctrl.h"
+	"appearance.h"
+	"level.h"
+	<mmsystem.h>
+
+1514563394 c:\users\vivian weng\desktop\¦r¥À\40557024o\source\level.h
+
+1514563502 source:c:\users\vivian weng\desktop\¦r¥À\40557024o\source\menu.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	"ioctrl.h"
+
+1514563533 source:c:\users\vivian weng\desktop\¦r¥À\40557024o\source\start.cpp
+	<stdio.h>
+	<windows.h>
+	"ioctrl.h"
+
+1525088177 source:c:\users\vivian weng\desktop\source\ending.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	"func.h"
+
+1514563366 source:c:\users\vivian weng\desktop\source\ioctrl.cpp
+	<windows.h>
+	<conio.h>
+
+1514563504 source:c:\users\vivian weng\desktop\source\menu.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	"ioctrl.h"
+
+1514563380 c:\users\vivian weng\desktop\source\ioctrl.h
+	<windows.h>
+	<conio.h>
+
+1524997113 source:c:\users\vivian weng\desktop\source\appearance.cpp
+	<stdio.h>
+	"ioctrl.h"
+
+1525099691 source:c:\users\vivian weng\desktop\source\func.cpp
+	<stdio.h>
+	<windows.h>
+	"func.h"
+	"ioctrl.h"
+	"graph.h"
+	"conio.h"
+	<time.h>
+
+1525099686 c:\users\vivian weng\desktop\source\func.h
+
+1525016127 source:c:\users\vivian weng\desktop\source\graph.cpp
+	<stdio.h>
+	<string.h>
+	"ioctrl.h"
+	"graph.h"
+
+1525015494 c:\users\vivian weng\desktop\source\graph.h
+
+1525100001 source:c:\users\vivian weng\desktop\source\level1.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"ioctrl.h"
+	"func.h"
+	"graph.h"
+	<ctype.h>
+
+1514563336 c:\users\vivian weng\desktop\source\appearance.h
+
+1525098887 source:c:\users\vivian weng\desktop\source\level2.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"ioctrl.h"
+	"func.h"
+	"graph.h"
+	<ctype.h>
+
+1525099053 source:c:\users\vivian weng\desktop\source\level3.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"ioctrl.h"
+	"func.h"
+	"graph.h"
+	<ctype.h>
+
+1525099180 source:c:\users\vivian weng\desktop\source\level4.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"ioctrl.h"
+	"func.h"
+	"graph.h"
+	<ctype.h>
+
+1525089837 source:c:\users\vivian weng\desktop\source\level5.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"ioctrl.h"
+	"func.h"
+	"graph.h"
+
+1525090949 source:c:\users\vivian weng\desktop\source\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ioctrl.h"
+	"level.h"
+	<mmsystem.h>
+	"graph.h"
+	"func.h"
+
+1525014358 c:\users\vivian weng\desktop\source\level.h
+
